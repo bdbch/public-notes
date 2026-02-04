@@ -9,14 +9,18 @@
 - [Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions.
 - [Foliate](https://johnfactotum.github.io/foliate/) - A simple and modern eBook viewer for Linux desktops.
 - [Fragments](https://apps.gnome.org/Fragments/) - Easy to use BitTorrent client.
+- [GPU Screen Recorder](https://flathub.org/apps/details/com.dec05eba.gpu_screen_recorder) - Shadowplay-like screen recorder that uses GPU encoding.
 - [Impression](https://apps.gnome.org/Impression/) - Create bootable drives from disk images.
 - [Kooha](https://github.com/SeaDve/Kooha) - Elegantly simple screen recorder.
 - [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage.
 - [Mousai](https://apps.gnome.org/Mousai/) - Identify songs in seconds.
 - [NewsFlash](https://apps.gnome.org/NewsFlash/) - The modern feed reader designed for the GNOME desktop.
+- [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression for Linux.
 - [Paper](https://gitlab.com/posmulten/paper) - Take notes in Markdown.
+- [paru](https://github.com/Morganamilo/paru) - Feature-packed AUR helper for Arch-based systems.
 - [Pika Backup](https://apps.gnome.org/PikaBackup/) - Simple backups based on Borg to keep your data safe.
 - [Planify](https://useplanify.com/) - Task manager with Todoist support.
+- [Qt Creator](https://doc.qt.io/qtcreator/) - Cross-platform Qt IDE for C++ and QML development.
 - [Shortwave](https://apps.gnome.org/Shortwave/) - Find and listen to internet radio stations.
 - [Spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop.
 - [Stacer](https://oguzhaninan.github.io/Stacer-Web/) - Linux system optimizer and monitoring.
@@ -24,6 +28,7 @@
 - [Video Trimmer](https://apps.gnome.org/VideoTrimmer/) - Trim videos quickly.
 - [Warehouse](https://github.com/flathub-infra/warehouse) - A versatile toolbox for managing Flatpak applications and remotes.
 - [Wike](https://apps.gnome.org/Wike/) - Wikipedia reader for the GNOME Desktop.
+- [yay](https://github.com/Jguer/yay) - AUR helper written in Go for Arch-based systems.
 
 ### Customization Tools
 

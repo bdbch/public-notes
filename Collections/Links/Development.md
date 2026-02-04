@@ -50,20 +50,20 @@
 
 - [BetterAuth](https://github.com/better-auth/better-auth) - Open-source, TypeScript-first authentication library for modern web applications.
 - [Nuqs](https://nuqs.47ng.com/) - Type-safe search params state manager for React.
-- [ProseMark](https://github.com/jsimonrichard/ProseMark) - A 'What You See Is What You Mean' markdown editor extension for VS Code providing a seamless writing experience.
+- [ProseMark](https://github.com/jsimonrichard/ProseMark) - A 'What You See Is What You Mean' markdown editor library based on CodeMirror
 - [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
 - [Tiptap](https://tiptap.dev/) - The headless rich text editor framework for web artisans.
 
 ### Animation
 
-- [AutoAnimate](https://auto-animate.formkit.com/) - ---
-- [Framer Motion](https://www.framer.com/motion/) - ---
+- [AutoAnimate](https://auto-animate.formkit.com/) - Drop-in auto-animations for layout changes with minimal code.
+- [Framer Motion](https://www.framer.com/motion/) - Production-ready animation and gesture library for React.
 
 ### Data Fetching
 
-- [Axios](https://axios-http.com/) - ---
-- [SWR](https://swr.vercel.app/) - ---
-- [TanStack Query](https://tanstack.com/query/latest) - ---
+- [Axios](https://axios-http.com/) - Promise-based HTTP client for browsers and Node.js.
+- [SWR](https://swr.vercel.app/) - React data fetching with caching, revalidation, and mutations.
+- [TanStack Query](https://tanstack.com/query/latest) - Async state manager with caching, background refetching, and retries.
 
 ### Frameworks
 
@@ -93,37 +93,46 @@
 - [Nuxt](https://nuxt.com/) - Vue framework with server rendering, file-based routing, and hybrid rendering.
 - [Vue.js](https://vuejs.org/) - Progressive JavaScript framework for building UIs with a gentle learning curve.
 
+### Nuxt Ecosystem
+
+- [Nuxt UI](https://ui.nuxt.com/) - UI component library for Nuxt and Vue, built on Tailwind and Reka UI.
+- [Nuxt DevTools](https://devtools.nuxt.com/) - In-app visual tools to inspect and improve your Nuxt app.
+- [Nuxt Content](https://content.nuxt.com/) - File-based CMS for Nuxt with Markdown and data querying.
+- [Nuxt Image](https://nuxt.com/modules/image) - Plug-and-play image optimization for Nuxt.
+- [Nuxt Icon](https://nuxt.com/modules/icon) - Icon module for Nuxt with 200,000+ Iconify icons.
+- [Nuxt Fonts](https://nuxt.com/modules/fonts) - Web font optimization and configuration for Nuxt apps.
+
 ### Routing
 
-- [React Router](https://reactrouter.com/) - ---
-- [TanStack Router](https://tanstack.com/router/latest) - ---
+- [React Router](https://reactrouter.com/) - Declarative routing for React with nested routes and data APIs.
+- [TanStack Router](https://tanstack.com/router/latest) - Type-safe router with file-based or code-first routing.
 
 ### State Management
 
-- [Jotai](https://jotai.org/) - ---
-- [MobX](https://mobx.js.org/) - ---
-- [Recoil](https://recoiljs.org/) - ---
-- [Redux Toolkit](https://redux-toolkit.js.org/) - ---
-- [Zustand](https://zustand.docs.pmnd.rs/) - ---
+- [Jotai](https://jotai.org/) - Primitive and flexible atomic state management for React.
+- [MobX](https://mobx.js.org/) - Observable-based state management with minimal boilerplate.
+- [Recoil](https://recoiljs.org/) - Atom-based state management with derived selectors for React.
+- [Redux Toolkit](https://redux-toolkit.js.org/) - Official, batteries-included Redux setup and utilities.
+- [Zustand](https://zustand.docs.pmnd.rs/) - Small, fast, and scalable React state management.
 
 ### Styling
 
-- [Emotion](https://emotion.sh/) - ---
-- [Sass](https://sass-lang.com/) - ---
-- [styled-components](https://styled-components.com/) - ---
-- [Tailwind CSS](https://tailwindcss.com/) - ---
-- [vanilla-extract](https://vanilla-extract.style/) - ---
+- [Emotion](https://emotion.sh/) - Performant, flexible CSS-in-JS library with theming.
+- [Sass](https://sass-lang.com/) - CSS preprocessor with variables, nesting, and mixins.
+- [styled-components](https://styled-components.com/) - CSS-in-JS for styling components with scoped styles.
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for rapid UI development.
+- [vanilla-extract](https://vanilla-extract.style/) - Type-safe, zero-runtime CSS-in-TypeScript.
 
 ### UI Libraries
 
-- [Ant Design](https://ant.design/) - ---
-- [Chakra UI](https://chakra-ui.com/) - ---
-- [dnd-kit](https://dndkit.com/) - ---
-- [Headless UI](https://headlessui.com/) - ---
-- [MUI](https://mui.com/) - ---
-- [Radix UI](https://www.radix-ui.com/) - ---
-- [Recharts](https://recharts.org/) - ---
-- [Shadcn UI](https://ui.shadcn.com/) - ---
+- [Ant Design](https://ant.design/) - Enterprise-grade React UI library with rich components.
+- [Chakra UI](https://chakra-ui.com/) - Accessible, themeable React component library.
+- [dnd-kit](https://dndkit.com/) - Modern, lightweight drag-and-drop toolkit for React.
+- [Headless UI](https://headlessui.com/) - Unstyled, accessible UI primitives for React and Vue.
+- [MUI](https://mui.com/) - Material Design React components and tooling.
+- [Radix UI](https://www.radix-ui.com/) - Low-level, accessible UI primitives for React.
+- [Recharts](https://recharts.org/) - Composable charting library built on React.
+- [Shadcn UI](https://ui.shadcn.com/) - Copy-paste React components built on Radix and Tailwind.
 
 ## Testing
 
