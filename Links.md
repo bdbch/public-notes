@@ -1,5 +1,5 @@
 - [[Collections/Links/AI]]
-- [[Apps]]
+- [[Open Web]]
 - [[Collections/Links/CLI Tools]]
 - [[Collections/Links/Design & UX]]
 - [[Collections/Links/Development]]

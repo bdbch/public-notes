@@ -1,3 +1,8 @@
+## Bluesky Instances
+
+Those are different instances of Bluesky with their own PDS servers.
+
+- [Blacksky](https://blacksky.community/) - A Bluesky instance for the black and colored community
 ## ATProto Apps
 
 Those are links to different [ATProto](https://atproto.com/) apps on the web.
