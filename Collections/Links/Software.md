@@ -9,7 +9,7 @@
 - [Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions.
 - [Foliate](https://johnfactotum.github.io/foliate/) - A simple and modern eBook viewer for Linux desktops.
 - [Fragments](https://apps.gnome.org/Fragments/) - Easy to use BitTorrent client.
-- [GPU Screen Recorder](https://flathub.org/apps/details/com.dec05eba.gpu_screen_recorder) - Shadowplay-like screen recorder that uses GPU encoding.
+- [GPU Screen Recorder](https://flathub.org/apps/details/com.dec05eba.gpu_screen_recorder) - Shadowplay-like screen recorder that uses GPU encoding, supports streaming, and can capture highlights clips.
 - [Impression](https://apps.gnome.org/Impression/) - Create bootable drives from disk images.
 - [Kooha](https://github.com/SeaDve/Kooha) - Elegantly simple screen recorder.
 - [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage.
