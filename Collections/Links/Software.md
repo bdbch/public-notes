@@ -29,6 +29,7 @@
 - [Warehouse](https://github.com/flathub-infra/warehouse) - A versatile toolbox for managing Flatpak applications and remotes.
 - [Wike](https://apps.gnome.org/Wike/) - Wikipedia reader for the GNOME Desktop.
 - [yay](https://github.com/Jguer/yay) - AUR helper written in Go for Arch-based systems.
+- [Quickshell](https://quickshell.org/) - Toolkit that uses QtQuick to let you build status bars, widgets, lockscreens, and other desktop components with instant reload feedback.
 
 ### Customization Tools
 
