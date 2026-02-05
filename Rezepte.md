@@ -9,10 +9,11 @@
 
 ## Nudelgerichte
 
-- [[Collections/Rezepte/Nudelgerichte/Gemuese-Nudeln-mit-Cashew-Avocado-Sauce]]
+- [[Gemuese Nudeln mit Cashew-Avocado-Sauce]]
 
 ## Hauptgerichte
 
-- [[Collections/Rezepte/Hauptgerichte/Haehnchen-mit-Pastinakenpueree-und-Gemuese]]
-- [[Collections/Rezepte/Hauptgerichte/Lachs-auf-Ofengemuese]]
-- [[Collections/Rezepte/Hauptgerichte/Roemerpfanne-Fitnessrezept-fuer-Sportler]]
+- [[Das Beste Kartoffelgratin]]
+- [[Hähnchen mit Pastinakenpueree und Gemuese]]
+- [[Lachs auf Ofengemüse]]
+- [[Roemerpfanne Fitnessrezept für Sportler]]
