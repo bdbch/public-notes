@@ -83,7 +83,7 @@ This is one for my nerdy hobby. A list of my most favorite Addons for WoW.
 - [Leatrix Plus](https://www.curseforge.com/wow/addons/leatrix-plus) - Collection of quality of life improvements.
 - [LUI](https://www.curseforge.com/wow/addons/lui) - Full UI overhaul solution for those who want a complete redesign.
 - [Masque](https://www.curseforge.com/wow/addons/masque) - Skinning system for action buttons and more.
-- [Mount Mog](https://www.curseforge.com/wow/addons/mount-mog) - Lets you set up mounts to match each outfit.
+- [Mount Mog](https://www.curseforge.com/wow/addons/mogmount) - Lets you set up mounts to match each outfit.
 - [Opai](https://www.curseforge.com/wow/addons/opai) - Puts non-combat buttons on easy access rings instead of your bars.
 - [Plumber](https://www.curseforge.com/wow/addons/plumber) - Adds beautiful UI improvements throughout the game and housing features.
 - [SexyMap](https://www.curseforge.com/wow/addons/sexymap) - Minimap customization.
