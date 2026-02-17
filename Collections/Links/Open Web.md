@@ -12,5 +12,8 @@ Those are links to different [ATProto](https://atproto.com/) apps on the web.
 - [Grain](https://grain.social/) - Photo sharing platform built on the AT Protocol.
 - [Pinksky](https://pinksky.social/) - Instagram-inspired Bluesky client built on the AT Protocol focused on scrolling, exploring, and reposting image stories.
 - [Popfeed](https://popfeed.social/) - Pop culture community app on the open social web.
-- [Streamplace](https://stream.place/) - Live video and streaming on the AT Protocol.
+- [Stream.place](https://stream.place/) - Live video and streaming on the AT Protocol.
 - [Blento](https://blento.app/) - Bento-style personal website that uses your Bluesky PDS as the data source.
+- [Margin](https://margin.at/) - A place where people can collect public bookmarks on any content from the web and share it
+- [Recipe.exchange](https://recipe.exchange/) - A recipe sharing site
+- [BlueskyDirectory](https://blueskydirectory.com/) - A directory of ATProto apps, bridges, clients, etc.
