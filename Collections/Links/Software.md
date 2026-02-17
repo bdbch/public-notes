@@ -9,6 +9,7 @@
 - [Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions.
 - [Foliate](https://johnfactotum.github.io/foliate/) - A simple and modern eBook viewer for Linux desktops.
 - [Fragments](https://apps.gnome.org/Fragments/) - Easy to use BitTorrent client.
+- [Faugus Launcher](https://github.com/Faugus/faugus-launcher) - Application launcher for Linux.
 - [GPU Screen Recorder](https://flathub.org/apps/details/com.dec05eba.gpu_screen_recorder) - Shadowplay-like screen recorder that uses GPU encoding, supports streaming, and can capture highlights clips.
 - [Impression](https://apps.gnome.org/Impression/) - Create bootable drives from disk images.
 - [Kooha](https://github.com/SeaDve/Kooha) - Elegantly simple screen recorder.
@@ -36,6 +37,24 @@
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - A tool to adjust advanced GNOME options, such as fonts, themes, and window behavior.
 - [LXAppearance](https://wiki.lxde.org/en/LXAppearance) - A desktop-independent GTK theme switcher, commonly used with window managers.
 
+### KDE Plasma
+
+- [Klassy](https://github.com/paulmcauley/klassy) - KDE Plasma application style inspired by macOS.
+- [Darkly](https://github.com/Bali10050/Darkly) - Dark KDE Plasma style and color scheme.
+- [Konsave](https://github.com/Prayag2/konsave) - Backup and restore KDE Plasma customizations.
+- [Aritim Dark](https://github.com/Mrcuve0/Aritim-Dark) - KDE Plasma theme.
+- [Silicon](https://github.com/Mrcuve0/Silicon) - KDE Plasma theme.
+- [Orchis KDE](https://github.com/vinceliuice/Orchis-kde) - Orchis theme for KDE Plasma.
+- [MacVentura KDE](https://github.com/vinceliuice/MacVentura-kde) - macOS Ventura-like theme for KDE Plasma.
+- [MacTahoe KDE](https://github.com/vinceliuice/MacTahoe-kde) - macOS-like theme for KDE Plasma.
+- [Colloid KDE](https://github.com/vinceliuice/Colloid-kde) - Colloid theme for KDE Plasma.
+- [Sevi](https://github.com/TaylanTatli/Sevi) - KDE Plasma theme.
+- [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc theme port for KDE Plasma.
+- [Kvantum](https://github.com/tsujan/Kvantum) - SVG-based theme engine for Qt.
+- [Catppuccin Kvantum](https://github.com/catppuccin/kvantum) - Catppuccin theme for Kvantum.
+- [plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) - Colorize and customize KDE Plasma panels.
+- [plasmoid-dockio](https://github.com/imoize/plasmoid-dockio) - Dock widget (plasmoid) for KDE Plasma.
+
 ### Desktop Environments
 
 - [GNOME](https://www.gnome.org/) - A modern, distraction-free desktop environment with a focus on workflow and simplicity.
@@ -43,9 +62,21 @@
 
 ### Themes
 
+#### Global Themes
+
 - [Catppuccin](https://catppuccin.com/) - A community-driven, soothing pastel theme available for a massive number of applications.
 - [Dracula](https://draculatheme.com/) - A famous dark theme for many applications, editors, and shells.
 - [Nord](https://www.nordtheme.com/) - An arctic, north-bluish color palette for a clean and elegant look.
+
+#### Icon Themes
+
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Popular icon theme for Linux desktops.
+- [Dracula Icons](https://github.com/m4thewz/dracula-icons) - Dracula-themed icon set.
+- [Colloid Icons](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme.
+
+#### Cursor Themes
+
+- [Catppuccin Cursors](https://github.com/catppuccin/cursors) - Catppuccin cursor theme.
 
 ### Window Managers
 
